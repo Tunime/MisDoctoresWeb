@@ -13,27 +13,32 @@ header
 }
 header img
 {
-	margin: 5px 0 0 0;
+	/*margin: 5px 0 0 0;*/
 	width: 100%;
 	height: 100%;
-}
-#banear
-{
-	margin: 70px 0 0 0;
 }
 .navbar-brand
 {
 	height: 50px;
 	width: 100px;
 }
-#bs-example-navbar-collapse-1
+#banea
 {
-	margin: 0 0 0 -4.5em;
+	padding: 5em 0 0 0;
 }
-#barradenavegacion
+#banea img
+{
+	width: 100%;
+	height: 100%;
+}
+
+
+header
 {
 position: fixed;
 width: 100%;
+height: 100%;
+
 
 }
 #barradenavegacion nav
