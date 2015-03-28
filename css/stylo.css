@@ -124,57 +124,11 @@ color: white;
 	display: inline-block;
 	vertical-align: top;
 }
-
-/*recomendaciones*/
-/*#recomendaciones
+#recomendaciones
 {
-	width: 36%;
-	width: 40%;
+	background: #2196F3;
+	padding: 5em 0 0 0;
 }
-#hijo
-{
-	width: 37%;
-	height: 40%;
-}
-#hijo img
-{
-	width: 100%;
-	height: 100%;
-}
-#hermano
-{
-	background: blue;
-	width: 60%;
-	height: 100%;
-}
-#hijo, #hermano
-{
-	display: inline-block;
-	vertical-align: top;
-}*/
-/*toaru majutsu no index*/
-#padre
-{
-	width: 30%;
-	height: 23em;
-	background: red;
-}
-#hijo{
-	width: 100%;
-	height: 10em;
-}
-#hijo img
-{
-	width: 100%;
-	height: 100%;
-}
-#padre
-{
-	display: inline-block;
-
-}
-
-
 
 
 
